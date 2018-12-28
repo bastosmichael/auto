@@ -1,6 +1,6 @@
 Trestle.resource(:amazon_categories) do
   menu do
-    item :amazon_categories, icon: "fa fa-star"
+    item :amazon_categories, icon: "fa fa-amazon"
   end
 
   # Customize the table columns shown on the index view.

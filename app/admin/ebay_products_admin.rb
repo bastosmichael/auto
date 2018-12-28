@@ -1,6 +1,6 @@
 Trestle.resource(:ebay_products) do
   menu do
-    item :ebay_products, icon: "fa fa-star"
+    item :ebay_products, icon: "fa fa-suitcase"
   end
 
   # Customize the table columns shown on the index view.
