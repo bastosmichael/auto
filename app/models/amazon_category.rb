@@ -1,0 +1,2 @@
+class AmazonCategory < ApplicationRecord
+end

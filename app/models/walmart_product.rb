@@ -1,0 +1,2 @@
+class WalmartProduct < ApplicationRecord
+end

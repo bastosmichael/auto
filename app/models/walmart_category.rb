@@ -1,0 +1,2 @@
+class WalmartCategory < ApplicationRecord
+end

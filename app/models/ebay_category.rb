@@ -1,0 +1,2 @@
+class EbayCategory < ApplicationRecord
+end
